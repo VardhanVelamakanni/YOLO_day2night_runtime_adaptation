@@ -1,0 +1,19 @@
+{
+  "accuracy": 0.75,
+  "roc_auc": 1.0,
+  "samples": 20,
+  "calibration_folds": 2,
+  "features": [
+    "conf_mean",
+    "conf_max",
+    "n_det",
+    "conf_entropy",
+    "obj_mean",
+    "small_frac",
+    "v_mean",
+    "v_std",
+    "dark_frac",
+    "flip_consistency",
+    "bn_dist"
+  ]
+}
