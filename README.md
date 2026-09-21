@@ -4,12 +4,7 @@
 
 ### Self-Healing Object Detection Through Online Domain Adaptation Without Retraining
 
-<p>
-  <img src="https://img.shields.io/badge/YOLO11-Ultralytics-blue"/>
-  <img src="https://img.shields.io/badge/PyTorch-2.x-red"/>
-  <img src="https://img.shields.io/badge/OpenVINO-Optimized-green"/>
-  <img src="https://img.shields.io/badge/Test--Time-Adaptation-purple"/>
-</p>
+
 
 
 <img width="1862" height="500" alt="image" src="https://github.com/user-attachments/assets/5d4e5920-4185-43ba-ae18-815a86ad3586" />
